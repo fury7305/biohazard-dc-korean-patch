@@ -11,6 +11,7 @@ DUAL SHOCK Ver.에는 대응하지 않습니다.
 
 버전
 v1.0
+
 최초 공개 버전
 
 패치는 GitHub Releases에서 다운로드할 수 있습니다.
