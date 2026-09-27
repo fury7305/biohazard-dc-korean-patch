@@ -1,5 +1,5 @@
 # BIOHAZARD DIRECTOR'S CUT 한국어 패치
-PlayStation 일본판 BIOHAZARD DIRECTOR'S CUT (SLPS-00998) 한국어 패치입니다.
+PlayStation 일본판 바이오 하자드 디렉터즈 컷 (SLPS-00998) 한국어 패치입니다.
 
 대사, 조사문, 아이템, 메뉴/UI, FILE 문서 및 이벤트 자막 등을 한국어화했습니다.
 
