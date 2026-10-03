@@ -1,4 +1,4 @@
-# BIOHAZARD DIRECTOR'S CUT 한국어 패치
+# PS1 BIOHAZARD DIRECTOR'S CUT 한국어 패치
 PlayStation 바이오하자드 디렉터즈 컷 일본판 (SLPS-00998) 한국어 패치입니다.
 
 이 저장소에서는 게임 원본 이미지(BIN/CUE/ISO)를 제공하지 않습니다.
